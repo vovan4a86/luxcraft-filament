@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.8.0",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@fancyapps/ui": "^5.0.22",
+        "alpinejs": "^3.13.0",
+        "aos": "^2.3.4",
+        "focus-visible": "^5.2.0",
+        "inputmask": "^5.0.8",
+        "jquery": "^3.7.1",
+        "swiper": "^8.0.0",
+        "vanilla-lazyload": "^17.8.4"
+    }
+}
